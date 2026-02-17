@@ -1,11 +1,11 @@
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import MainLayout from '../layouts/MainLayout';
 import Home from '../pages/Home';
-import Login from '../pages/Login';
 import Members from '../pages/Members';
 import Dashboard from '../pages/Dashboard';
 import SignIn from '../pages/SignIn';
 import SignUp from '../pages/SignUp';
+import Familytree from '../pages/familytree/Familytree';
 import PublicRoute from '../routes/PublicRoute';
 import ProtectedRoute from '../routes/ProtectedRoute';
 
@@ -23,7 +23,6 @@ export default function AppRouter() {
             </ProtectedRoute>
           }
         />
-
         <Route
           path="/"
           element={
@@ -32,7 +31,7 @@ export default function AppRouter() {
             </ProtectedRoute>
           }
         />
-        <Route path="/login" element={<Login />} />
+
         <Route
           path="/dashboard"
           element={
@@ -57,6 +56,14 @@ export default function AppRouter() {
             <PublicRoute>
               <SignIn />
             </PublicRoute>
+          }
+        />
+        <Route
+          path="/familytree"
+          element={
+            <MainLayout>
+              <Familytree />
+            </MainLayout>
           }
         />
         <Route path="*" element={<Navigate to="/signin" replace />} />

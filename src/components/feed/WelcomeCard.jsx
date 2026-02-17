@@ -1,7 +1,7 @@
 export default function WelcomeCard() {
   return (
     <div
-      className="bg-white/90 backdrop-blur-md rounded-[32px] 
+      className="bg-white/90 backdrop-blur-md rounded-4xl
       p-10 shadow-[0_20px_60px_rgba(0,0,0,0.06)] mb-10"
     >
       {/* Main Title */}

@@ -51,13 +51,12 @@ export default function SignUp() {
 
         <form onSubmit={handleSubmit} className="space-y-5">
           <input
-            name="firstName"
             placeholder="First Name"
+            name="firstName"
             onChange={handleChange}
             className="w-full p-4 rounded-xl bg-[#F9F6F2] 
           outline-none focus:ring-2 focus:ring-[#7B6EF6]"
           />
-
           <input
             name="lastName"
             placeholder="Last Name"
@@ -65,7 +64,6 @@ export default function SignUp() {
             className="w-full p-4 rounded-xl bg-[#F9F6F2] 
           outline-none focus:ring-2 focus:ring-[#7B6EF6]"
           />
-
           <input
             name="username"
             placeholder="Username"
@@ -73,7 +71,6 @@ export default function SignUp() {
             className="w-full p-4 rounded-xl bg-[#F9F6F2] 
           outline-none focus:ring-2 focus:ring-[#7B6EF6]"
           />
-
           <input
             name="email"
             type="email"
@@ -82,7 +79,6 @@ export default function SignUp() {
             className="w-full p-4 rounded-xl bg-[#F9F6F2] 
           outline-none focus:ring-2 focus:ring-[#7B6EF6]"
           />
-
           <input
             name="password"
             type="password"
@@ -91,9 +87,8 @@ export default function SignUp() {
             className="w-full p-4 rounded-xl bg-[#F9F6F2] 
           outline-none focus:ring-2 focus:ring-[#7B6EF6]"
           />
-
+          type="submit"
           <button
-            type="submit"
             disabled={loading}
             className="w-full py-4 rounded-full 
           bg-gradient-to-r from-[#7B6EF6] to-[#9F94FF] 

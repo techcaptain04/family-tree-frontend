@@ -5,7 +5,7 @@ export default function PostComposer() {
 
   return (
     <div
-      className="bg-white/95 backdrop-blur-md rounded-[32px]
+      className="bg-white/95 backdrop-blur-md rounded-4xl
       p-8 shadow-[0_20px_60px_rgba(0,0,0,0.06)] mb-10"
     >
       {/* Title */}

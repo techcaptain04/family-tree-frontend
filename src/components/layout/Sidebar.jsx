@@ -28,7 +28,7 @@ export default function Sidebar() {
     <div
       className={`bg-white/70 backdrop-blur-md border border-slate-200 
       rounded-2xl p-4 shadow-sm transition-all duration-300
-      ${collapsed ? 'w-[80px]' : 'w-[240px]'}`}
+      ${collapsed ? 'w-20' : 'w-60'}`}
     >
       {/* Toggle Button */}
       <div className="flex justify-end mb-6">
