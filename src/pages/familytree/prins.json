@@ -2,12 +2,12 @@
   {
     "id": "0",
     "gender": "female",
-    "name": "סופיה דיאמנט (שלזינגר)",
+    "name": "Sophia Diamant (Schlesinger)",
     "birt_date": "7 OCT 1880",
-    "birt_hebdate": "ב'  חשון  תרמ\"א ",
-    "birt_place": "מאינץ גרמניה",
+    "birt_hebdate": "2 Cheshon 1881 ",
+    "birt_place": "Mainz Germany",
     "deat_date": "23 JUN 1972",
-    "deat_hebdate": "י\"א  תמוז  תשל\"ב ",
+    "deat_hebdate": "11 Tammuz 1881 ",
     "deat_place": " ",
     "age": "91",
     "occu": "",
@@ -17,34 +17,34 @@
     "Desc": "",
     "docs": [
       {
-        "img": "שלזינגר סופיה 7 OCT 1880-1.jpg",
+        "img": "Schlesinger Sophia 7 OCT 1880-1.jpg",
         "link": "",
-        "title": "חיפוש קרובים",
-        "desc": "הכרטיס בארכיון Arolsen שנפתח בעקבות בקשת חיפש מקס שלזינגר"
+        "title": "Search relatives",
+        "desc": "The card In the Arolsen archive opened following a request, Max Schlesinger was searched for"
       },
       {
-        "img": "שלזינגר סופיה 7 OCT 1880-2.jpg",
+        "img": "Schlesinger Sofia 7 OCT 1880-2.jpg",
         "link": "",
-        "title": "חיפוש קרובים",
-        "desc": "הכרטיס בארכיון Arolsen שנפתח בעקבות בקשת חיפש מקס שלזינגר"
+        "title": "Search for relatives",
+        "desc": "The card in the Arolsen archive opened following a request, Max Schlesinger was searched for"
       },
       {
-        "img": "שלזינגר סופיה 7 OCT 1880-3.jpg",
+        "img": "Schlesinger Sofia 7 OCT 1880-3.jpg",
         "link": "",
-        "title": "חיפוש קרובים",
-        "desc": "תשובה מפורטת"
+        "title": "Search for relatives",
+        "desc": "Detailed answer"
       },
       {
-        "img": "שלזינגר סופיה 7 OCT 1880-8.jpg",
+        "img": "Schlesinger Sofia 7 OCT 1880-8.jpg",
         "link": "",
-        "title": "החלטת בית הדין באנגליה",
-        "desc": "פה יתכן ויכתב מלל ארוך המתאר את המסמך בצורה ברורה אבל לא לכל מסמך יהיה תוכן בשדה זה"
+        "title": "The decision of the court in England",
+        "desc": "Here you can write a long text that describes the document clearly, but not every document will have content in this field"
       },
       {
-        "img": "שלזינגר סופיה 7 OCT 1880-9.jpg",
+        "img": "Schlesinger Sofia 7 OCT 1880-9.jpg",
         "link": "",
-        "title": "מצבה",
-        "desc": "בקבוצת יבנה"
+        "title": "Tombstone",
+        "desc": "In the Yavne group"
       }
     ],
     "parents": [
@@ -99,97 +99,97 @@
   {
     "id": "6",
     "gender": "male",
-    "name": "שלמה מרדכי דיאמנט",
+    "name": "Shlomo Mordechai Diamant",
     "birt_date": "3 DEC 1913",
-    "birt_hebdate": "ד'  כסלו  תרע\"ד ",
-    "birt_place": "Poznan פולין",
+    "birt_hebdate": "4th Kislev 1913",
+    "birt_place": "Poznan Poland",
     "deat_date": "18 JAN 2004",
-    "deat_hebdate": "כ\"ד  טבת  תשס\"ד ",
-    "deat_place": "קרני שומרון ",
+    "deat_hebdate": "24 Tevet 5664",
+    "deat_place": "Karnei Shomron ",
     "age": "90",
-    "occu": "פקיד",
+    "occu": "officer",
     "DeathType": "",
     "holucost": "0",
     "img": "I334179274690003362",
     "Desc": "",
     "docs": [
       {
-        "img": "דיאמנט שלמה מרדכי 3 DEC 1913-1.jpg",
+        "img": "Diamant Shlomo Mordechai 3 DEC 1913-1.jpg",
         "link": "https://www.mappingthelives.org/bio/a4af758b-1c2e-4065-81da-996110773bcf",
-        "title": "רישום לפני עזיבת גרמניה",
-        "desc": "פה יתכן ויכתב מלל ארוך המתאר את המסמך בצורה ברורה אבל לא לכל מסמך יהיה תוכן בשדה זה"
+        "title": "Registration before leaving Germany",
+        "desc": "A long text describing the document clearly may be written here, but not every document will have content in this field"
       },
       {
-        "img": "דיאמנט שלמה מרדכי 3 DEC 1913-2.jpg",
+        "img": "Diamant Shlomo Mordechai 3 DEC 1913-2.jpg",
         "link": "",
-        "title": "עוזבים את קפריסין",
-        "desc": "מסמך שהכינו אנשי ארכיון שרות האיתור הבינלאומי על בסיס רישום של מקס דיאמנט ברשימה של 780 מעפילים ששוחררו ממחנה פמגוסטה והורשו לעלות לפלשתינה, כולם היו במחנה 55 בקפריסין והגיעו לפלשתינה על האוניות \"יגור\" ו \"הנריטה סולד\""
+        "title": "Leaving Cyprus",
+        "desc": "A document prepared by the International Tracing Service archives based on Max Diamant's registration on the list of 780 illegal immigrants who were released from the Famagusta camp and allowed to immigrate to Palestine, all of whom were in Camp 55 in Cyprus and arrived in Palestine on the ships \"Yagur\" and \"Henrietta Sold\""
       },
       {
-        "img": "דיאמנט שלמה מרדכי 3 DEC 1913-3.jpg",
+        "img": "Diamant Shlomo Mordechai 3 DEC 1913-3.jpg",
         "link": "",
-        "title": "מחלקת ההגירה",
-        "desc": "מארכיון דוד דיאמנט"
+        "title": "Immigration Department",
+        "desc": "From the David Diamant Archive"
       },
       {
-        "img": "דיאמנט שלמה מרדכי 3 DEC 1913-4.jpg",
+        "img": "Diamant Shlomo Mordechai 3 DEC 1913-4.jpg",
         "link": "https://www.its-arolsen.org/en",
-        "title": "רשימת משוחררי קפריסין",
-        "desc": "מארכיון דוד דיאמנט<br/>מסמך שהכינו אנשי ארכיון שרות האיתור הבינלאומי (arolsen) על בסיס רישום של דיאמנט מקס ברשימה של 780 מעפילים ששוחרו ממחנה CARACLAS  פמגוטסה , והורשו לעלות לפלשתינה  כולם היו במחנה 55 בקפריסין והגיעו לפלשתינה על האוניות   \"הנריטה סולד\"  ו\"יגור\" <br/>הדף השמאלי מציין תחילתה של רשימה זו, בדף הימני רשום דיאמנט מקס. שמו רשום ברשימה בעמוד זה במספר הסידורי 184."
+        "title": "List of Liberated Persons of Cyprus",
+        "desc": "From the David Diamant Archive<br/>A document prepared by the archives of the International Tracing Service (arolsen) based on the registration of Diamant Max in the list of 780 illegal immigrants who left the CARACLAS camp in Famagusta, and were allowed to immigrate to Palestine. All of them were in Camp 55 in Cyprus and arrived in Palestine on the ships \"Henrietta Sold\" and \"Yagur\" <br/>The left page indicates the beginning of a list This, on the right-hand page, is written Diamant Max. His name is listed on this page under serial number 184."
       },
       {
-        "img": "דיאמנט שלמה מרדכי 3 DEC 1913-5.jpg",
+        "img": "Diamant Shlomo Mordechai 3 DEC 1913-5.jpg",
         "link": "",
-        "title": "רישום לפני עזיבת גרמניה",
-        "desc": "מענה לארכיון מפרט את תוכן המסמך:  (סריקה שלו רק בתשלום)<br/><br/>Max Israel Diamant <br/>3520E<br/>Born. Germany, Posen 3.12.1913<br/>Residence. 13 Wellington St, Broughton. 18 Camberly St, Liverpool 24.8.1945<br/>Profession. Sugar Bailer<br/>Status. Single<br/>Date of arrival in UK. 22.6.1939, Berlin. <br/>Date of arrival into Salford. 29.10.44 from 62 Greenhill, Prince Arthur Road NW3<br/>Notes: Granted leave to land at Harwich on 22.6.1939<br/>19.10.39 exempted from internment - Nazi refugee<br/>13.2.40 exempted from 6a and 9a [illegible]<br/>27.6.40 Interned <br/>5.1.41 released from internment<br/>16.1.41 exempted until further order from internment <br/> "
+        "title": "Registration before leaving Germany",
+        "desc": "Answer to the archive details the contents of the document: (Scanning only for a fee)<br/><br/>Max Israel Diamant <br/>3520E<br/>Born. Germany, Posen 3.12.1913<br/>Residence. 13 Wellington St, Broughton. 18 Camberly St, Liverpool 24.8.1945<br/>Profession. Sugar Bailer<br/>Status. Single<br/>Date of arrival in UK. 22.6.1939, Berlin. <br/>Date of arrival into Salford. 29.10.44 from 62 Greenhill, Prince Arthur Road NW3<br/>Notes: Granted leave to land at Harwich on 22.6.1939<br/>19.10.39 exempted from internment - Nazi refugee<br/>13.2.40 exempted from 6a and 9a [illegible]<br/>27.6.40 Interned <br/>5.1.41 released from internment<br/>16.1.41 exempted until further order from internment <br/> "
       },
       {
-        "img": "דיאמנט שלמה מרדכי 3 DEC 1913-6.jpg",
+        "img": "Diamant Shlomo Mordechai 3 DEC 1913-6.jpg",
         "link": "",
-        "title": "ת''ז של פלשתין",
-        "desc": "מארכיון דוד דיאמנט<br/>"
+        "title": "Palestine ID",
+        "desc": "From the David Diamant Archive<br/>"
       },
       {
-        "img": "דיאמנט שלמה מרדכי 3 DEC 1913-7.jpg",
+        "img": "Diamant Shlomo Mordechai 3 DEC 1913-7.jpg",
         "link": "",
-        "title": "תעודת עולה",
-        "desc": "מארכיון דוד דיאמנט<br/>"
+        "title": "Immigrant Certificate",
+        "desc": "From the ArchivesFrom David Diamant<br/>"
       },
       {
-        "img": "דיאמנט שלמה מרדכי 3 DEC 1913-8.jpg",
+        "img": "Diamant Shlomo Mordechai 3 DEC 1913-8.jpg",
         "link": "",
-        "title": "תעודת יושר",
-        "desc": "מארכיון דוד דיאמנט<br/>"
+        "title": "Certificate of Honor",
+        "desc": "From the David Diamant Archive<br/>"
       },
       {
-        "img": "דיאמנט שלמה מרדכי 3 DEC 1913-9.jpg",
+        "img": "Diamant Shlomo Mordechai 3 DEC 1913-9.jpg",
         "link": "",
-        "title": "בית הדין באנגליה",
-        "desc": "פה יתכן ויכתב מלל ארוך המתאר את המסמך בצורה ברורה אבל לא לכל מסמך יהיה תוכן בשדה זה"
+        "title": "The Court in England",
+        "desc": "Here you can write a long text that describes the document clearly, but not every document will have content in this field"
       },
       {
-        "img": "דיאמנט שלמה מרדכי 3 DEC 1913-10.jpg",
+        "img": "Diamant Shlomo Mordechai 3 DEC 1913-10.jpg",
         "link": "",
-        "title": "בית הדין באנגליה",
-        "desc": "פה יתכן ויכתב מלל ארוך המתאר את המסמך בצורה ברורה אבל לא לכל מסמך יהיה תוכן בשדה זה"
+        "title": "The Court in England",
+        "desc": "Here you can write a long text that describes the document clearly, but not every document will have content in this field"
       },
       {
-        "img": "דיאמנט שלמה מרדכי 3 DEC 1913-11.jpg",
+        "img": "Diamant Shlomo Mordechai 3 DEC 1913-11.jpg",
         "link": "",
-        "title": "בית הדין באנגליה",
-        "desc": "פה יתכן ויכתב מלל ארוך המתאר את המסמך בצורה ברורה אבל לא לכל מסמך יהיה תוכן בשדה זה"
+        "title": "The Court in England",
+        "desc": "Here you can write a long text that describes the document clearly, but not every document will have content in this field"
       },
       {
-        "img": "דיאמנט שלמה מרדכי 3 DEC 1913-12.jpg",
+        "img": "Diamant Shlomo Mordechai 3 DEC 1913-12.jpg",
         "link": "",
-        "title": "בית הדין באנגליה",
-        "desc": "פה יתכן ויכתב מלל ארוך המתאר את המסמך בצורה ברורה אבל לא לכל מסמך יהיה תוכן בשדה זה"
+        "title": "The Court in England",
+        "desc": "Here you can write a long text that describes the document clearly, but not every document will have content in this field"
       },
       {
-        "img": "דיאמנט שלמה מרדכי 3 DEC 1913-13.jpg",
+        "img": "Diamant Shlomo Mordechai 3 DEC 1913-13.jpg",
         "link": "",
-        "title": "הודעה מהמכס",
-        "desc": "פה יתכן ויכתב מלל ארוך המתאר את המסמך בצורה ברורה אבל לא לכל מסמך יהיה תוכן בשדה זה"
+        "title": "Notice from Customs",
+        "desc": "Here you can write a long text that describes the document clearly, but not every document will have content in this field"
       }
     ],
     "parents": [
@@ -1947,13 +1947,13 @@
   {
     "id": "92",
     "gender": "male",
-    "name": "מקס מרדכי (מרדכי) שלסינגר",
+    "name": "Max Mordechai (Mordechai) Schlesinger",
     "birt_date": "14 MAY 1835",
     "birt_hebdate": "ט\"ו  אייר  תקצ\"ה ",
-    "birt_place": "מאינץ גרמניה",
+    "birt_place": "From Germany",
     "deat_date": "4 JUN 1896",
     "deat_hebdate": "כ\"ג  סיון  תרנ\"ו ",
-    "deat_place": "מאינץ גרמניה",
+    "deat_place": "From Germany",
     "age": "61",
     "occu": "",
     "DeathType": "Before",
@@ -1998,13 +1998,13 @@
   {
     "id": "93",
     "gender": "female",
-    "name": "Roeschen שלסינגר (המבורגר)",
+    "name": "Roeschen Schlesinger (hamburger)",
     "birt_date": "21 NOV 1844",
     "birt_hebdate": "י'  כסלו  תר\"ה ",
-    "birt_place": " ",
+    "birt_place": "From Germany",
     "deat_date": "1 MAR 1932",
     "deat_hebdate": "כ\"ג  אדר א'  תרצ\"ב ",
-    "deat_place": "מאינץ גרמניה",
+    "deat_place": "From Germany",
     "age": "87",
     "occu": "",
     "DeathType": "Before",
@@ -2016,7 +2016,7 @@
         "img": "Hamburger Roeschen 21 NOV 1844-1.jpg",
         "link": "",
         "title": "",
-        "desc": "פה יתכן ויכתב מלל ארוך המתאר את המסמך בצורה ברורה אבל לא לכל מסמך יהיה תוכן בשדה זה"
+        "desc": "A long text may be written here that clearly describes the document, but not every document will have content in this field."
       }
     ],
     "parents": [],
@@ -2070,13 +2070,13 @@
   {
     "id": "94",
     "gender": "female",
-    "name": "Lina האוסמן (שלסינגר)",
+    "name": "Lina Hausman (Schlesinger)",
     "birt_date": "2 SEP 1876",
     "birt_hebdate": "י\"ג  אלול  תרל\"ו ",
-    "birt_place": "מאינץ גרמניה",
+    "birt_place": "From Germany",
     "deat_date": "21 JUL 1911",
     "deat_hebdate": "כ\"ה  תמוז  תרע\"א ",
-    "deat_place": "בזל שוויץ",
+    "deat_place": "Basel Switzerland",
     "age": "34",
     "occu": "",
     "DeathType": "Before",
@@ -2134,10 +2134,10 @@
     "name": "אנה אשווגה (שלזינגר)",
     "birt_date": "1 FEB 1877",
     "birt_hebdate": "י\"ח  שבט  תרל\"ז ",
-    "birt_place": " ",
+    "birt_place": "From Germany",
     "deat_date": "31 JAN 1920",
     "deat_hebdate": "י\"א  שבט  תר\"פ ",
-    "deat_place": " ",
+    "deat_place": "From Germany",
     "age": "42",
     "occu": "",
     "DeathType": "Before",
@@ -2202,7 +2202,7 @@
     "birt_place": " ",
     "deat_date": "4 MAR 1942",
     "deat_hebdate": "ט\"ו  אדר  תש\"ב ",
-    "deat_place": "מאינץ גרמניה",
+    "deat_place": "From Germany",
     "age": "66",
     "occu": "סוכן ביטוח ופייס",
     "DeathType": "Normal",

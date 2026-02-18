@@ -40,7 +40,7 @@
 }
 
 :global(.ril__toolbar) {
-  direction: rtl;
+  /* direction: rtl; */
   padding-right: 6px;
 }
 
@@ -48,5 +48,5 @@
   text-align: start;
   width: 800px;
   margin: 0 auto;
-  direction: rtl;
+  /* direction: rtl; */
 }

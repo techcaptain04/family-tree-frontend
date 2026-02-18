@@ -8,12 +8,12 @@ console.log(styles);
 export default function ContactUsDialogForm({ node }) {
   return (
     <div className={styles.dialog}>
-      <h3>צור קשר {node && node.name ? <>אודות {node.name}</> : null}</h3>
+      <h3>Contact us{node && node.name ? <>about{node.name}</> : null}</h3>
 
-      <Field type="email" name="email" placeholder="מייל" />
+      <Field type="email" name="email" placeholder="Mile" />
       <ErrorMessage name="email" component="div" />
 
-      <Field type="text" name="name" placeholder="שם מלא" />
+      <Field type="text" name="name" placeholder="Full Name" />
       <ErrorMessage name="name" component="div" />
 
       <Field
@@ -22,12 +22,12 @@ export default function ContactUsDialogForm({ node }) {
         component="textarea"
         rows={10}
         cols={30}
-        placeholder="תוכן ההודעה"
+        placeholder="Message content"
       />
       <ErrorMessage name="message" component="div" />
 
       <div>
-        <button type="submit">שלח</button>
+        <button type="submit">Send</button>
       </div>
     </div>
   );

@@ -9,13 +9,15 @@ export default function Footer({ toggle, markHolucost, nodes }) {
     <footer className={styles.footer}>
       <div className={styles.help}>
         <div>
-          הקטן או הגדל את העץ בעזרת גלגלת העכבר
+          Zoom in or out of the tree using the mouse wheel.
           <br />
-          לחיצה על ריבוע תפתח את חלון המסמכים
+          Clicking on a square will open the documents window.
           <br />
-          לחיצה על הכפתור "סמן נספים שואה" תסמן את אלו שלא שרדו את השואה
+          Clicking the "Mark Holocaust Victims" button will mark those who did
+          not survive the Holocaust.
           <br />
-          כדי לבחון את הענף של סבא פרינס יש ללחוץ על הריבוע הקטן שמימין לשם שלו
+          To examine Grandpa Prince's branch, click on the small square to the
+          right of his name.
         </div>
 
         <div />
@@ -38,7 +40,7 @@ export default function Footer({ toggle, markHolucost, nodes }) {
         </div>
       </div>
       <div className={styles.contact}>
-        דוד דיאמנט 2020 -
+        David Diamant 2020-
         <button
           onClick={openContactUs}
           style={{
@@ -48,7 +50,7 @@ export default function Footer({ toggle, markHolucost, nodes }) {
             fontSize: 16
           }}
         >
-          צור קשר
+          Contact us
         </button>
       </div>
     </footer>
